@@ -3,3 +3,5 @@ This line was modified in feature-2 branch.
 This file modified manually for 3-way merge.
 
 create remote branch based on local branch.
+
+Another modification in the feature-2 branch.
