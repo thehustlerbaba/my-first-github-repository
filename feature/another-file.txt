@@ -1,1 +1,3 @@
 Just another file in feature folder of feature-1 branch.
+
+This file modified manually for 3-way merge.
